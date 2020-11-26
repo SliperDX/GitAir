@@ -1,6 +1,6 @@
 ﻿namespace Aircompany.Models
 {
-    public enum ExperimentalTypes
+    public enum ExperimentalPlaneTypes
     {
         LIFTING_BODY,
         HYPERSONIC,
